@@ -1,0 +1,8 @@
+email,status,mfa_enrolled,last_login,is_admin
+a.rivera@example.com,ACTIVE,true,2026-11-14,false
+b.chen@example.com,ACTIVE,true,2026-11-10,true
+c.okafor@example.com,ACTIVE,false,2026-11-12,false
+d.smith@example.com,ACTIVE,true,2026-07-01,false
+e.patel@example.com,ACTIVE,true,2026-11-15,true
+f.jones@example.com,ACTIVE,true,2026-11-01,false
+g.kim@example.com,SUSPENDED,true,2026-05-20,false

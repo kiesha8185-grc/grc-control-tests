@@ -1,0 +1,8 @@
+email,employment_status,termination_date
+a.rivera@example.com,Active,
+b.chen@example.com,Active,
+c.okafor@example.com,Active,
+d.smith@example.com,Active,
+e.patel@example.com,Active,
+f.jones@example.com,Terminated,2026-10-31
+g.kim@example.com,Terminated,2026-05-21
